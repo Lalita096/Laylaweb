@@ -4,7 +4,7 @@
 <html>
 
 <head>
-  <title>black_pink_white - another page</title>
+  <title> Layla's Portfolio</title>
   <meta name="description" content="website description" />
   <meta name="keywords" content="website keywords, website keywords" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
