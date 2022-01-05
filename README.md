@@ -1,69 +1,37 @@
-## Welcome to my Porfolio website
-
-<!DOCTYPE HTML>
+Layla's Portfolio
+<!DOCTYPE html>
 <html>
-
 <head>
-  <meta name="description" content="website description" />
-  <meta name="keywords" content="website keywords, website keywords" />
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-  <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+<title>Layla Brown's Portfolio</title>
+<div>
+  <a href="Governor Campaign Website.html" >Home</a>
+  <a href="About page.html" >About</a>
+  <a href="News page.html">Recent News</a>
+  <a href="Funding page.html">Funding lol</a>
+</div>
 </head>
+<body bgcolor="purple">
+<font color="white">
+  <center><img src="Layla at diner.jpg" hieght="200"width="200">
+    </center>
+<h1><center><font size="34">Why Vote Layla Brown?</font></center></h1>
 
-<body>
-  <div id="main">
-    <div id="header">
-      <div id="logo">
-        <div id="logo_text">
-          <!-- class="logo_colour", allows you to change the colour of the text -->
-          <h1><a href="index.html">black<span class="logo_colour">_pink</span><span class="logo_colour2">_white</span></a></h1>
-          <h2>Simple. Contemporary. Website Template.</h2>
-        </div>
-      </div>
-      <div id="menubar">
-        <ul id="menu">
-          <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
-          <li><a href="index.html">Home</a></li>
-          <li><a href="examples.html">Examples</a></li>
-          <li><a href="page.html">A Page</a></li>
-          <li class="selected"><a href="another_page.html">Another Page</a></li>
-          <li><a href="contact.html">Contact Us</a></li>
-        </ul>
-      </div>
-    </div>
-    <div id="site_content">
-      <div class="sidebar">
-        <!-- insert your sidebar items here -->
-        <h3>Latest News</h3>
-        <h4>New Website Launched</h4>
-        <h5>August 1st, 2014</h5>
-        <p>2014 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
-        <p></p>
-        <h4>New Website Launched</h4>
-        <h5>August 1st, 2014</h5>
-        <p>2014 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
-        <h3>Useful Links</h3>
-        <ul>
-          <li><a href="#">link 1</a></li>
-          <li><a href="#">link 2</a></li>
-          <li><a href="#">link 3</a></li>
-          <li><a href="#">link 4</a></li>
-        </ul>
-        <h3>Search</h3>
-        <form method="post" action="#" id="search_form">
-          <p>
-            <input class="search" type="text" name="search_field" value="Enter keywords....." />
-            <input name="search" type="image" style="border: 0; margin: 0 0 -9px 5px;" src="style/search.png" alt="Search" title="Search" />
-          </p>
-        </form>
-      </div>
-      <div id="content">
-        <!-- insert the page content here -->
-        <h1>Another Page</h1>
-        <p>
-          lol
-        </a> | free from html5webtemplates.co.uk
-    </div>
-  </div>
+<center>Layla's goals for Nj include: more tacos, faster delivery, warmer weather, music events, and more.</center>
+
+<h2><center>More tacos/Faster Food Delievery</center></h2>
+
+<center>Tacos and food in general are very important.Slow delievery can result in anarcy. Everyone is hanrgy waiting for food to be delievered and its just a bad sitution. Tacos are an important food, they are tasty and will have endless possiblities. Faster delievery can be started with reform in restaurants. That way there is faster delievery and very few cancled orders. </center>
+
+<h2><center>Warmer Weather</center></h2>
+
+<center>You may be thinking, "How can Layla change the weather?" Well im just built different so its fine. I will alter the weather to bring warm weather to the to the places that need it and colder weather to the places that are suffering from global warming. Once again because I can.</center>
+
+<h2><center>Music Events</center></h2>
+
+<center>Music makes everyone happy, and if it doesn't if your thinking to yourself "I don't like music" I don't want your vote. Music helps people be their best selves. Music events will help better New Jersey.
+
+<h2><center>And More!</center></h2>
+<center>I am open to everyone's ideas and opinions. The citizens of New Jersey are what make New Jersey so amazing. I vow to use your suggestions to better New Jersey.</center>
 </body>
+</center>
 </html>
