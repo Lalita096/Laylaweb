@@ -2,21 +2,10 @@ Layla's Portfolio
 <!DOCTYPE html>
 <html>
 <head>
-<title>Layla Brown's Portfolio</title>
-<div>
-  <a href="Governor Campaign Website.html" >Home</a>
-  <a href="About page.html" >About</a>
-  <a href="News page.html">Recent News</a>
-  <a href="Funding page.html">Funding lol</a>
-</div>
-</head>
-<body bgcolor="purple">
-<font color="white">
-  <center><img src="Layla at diner.jpg" hieght="200"width="200">
-    </center>
-<h1><center><font size="34">Why Vote Layla Brown?</font></center></h1>
 
-<center>Layla's goals for Nj include: more tacos, faster delivery, warmer weather, music events, and more.</center>
+<h1><center><font size="34">Who is Layla Brown?</font></center></h1>
+
+<center>Layla is a 13 year old who loves </center>
 
 <h2><center>More tacos/Faster Food Delievery</center></h2>
 
